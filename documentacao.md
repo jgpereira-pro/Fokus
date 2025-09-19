@@ -14,7 +14,7 @@
 
 # Metodos utilizados no react native
 
-1. required() -> faz com que voce consiga passar um caminho da img que esta dentro do projeto
+1. required() -> faz com que voce consiga passar um caminho da img que esta dentro do projetonpm
 
 # Principais comando do terminal
 
